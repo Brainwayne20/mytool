@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Spiderclaws tool is running!"
-
+echo "Hello from mytool!"
